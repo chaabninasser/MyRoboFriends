@@ -1,2 +1,0 @@
-# MyRoboFriends
-Created with CodeSandbox
